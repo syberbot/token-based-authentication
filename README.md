@@ -6,11 +6,13 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development & starts backend server
+### Compiles and hot-reloads for development & starts backend server (port 3000)
 
 ```
 npm run start
 ```
+### Compile and hot-reloads for localhost:8080
+npm run serve
 
 ### Compiles and minifies for production
 
