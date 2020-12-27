@@ -12,7 +12,9 @@ npm install
 npm run start
 ```
 ### Compile and hot-reloads for localhost:8080
+```
 npm run serve
+```
 
 ### Compiles and minifies for production
 
