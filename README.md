@@ -6,7 +6,7 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development & starts backend server (port 3000)
+### Compiles and hot-reloads for psuedo backend server (port 3000)
 
 ```
 npm run start
